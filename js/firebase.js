@@ -1,12 +1,12 @@
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyByXd9W23DrSek4bZwbXlKjaoXFYDO-tsI",
-  authDomain: "emirateswill.firebaseapp.com",
-  databaseURL: "https://emirateswill-default-rtdb.firebaseio.com",
-  projectId: "emirateswill",
-  storageBucket: "emirateswill.appspot.com",
-  messagingSenderId: "937261210149",
-  appId: "1:937261210149:web:9a3e633abcedf76f453dcc",
+  apiKey: "AIzaSyDIABMHUv4cNWl9XMv6o1m0L8CVoyorBk0",
+  authDomain: "culinaryflexpro.firebaseapp.com",
+  databaseURL: "https://culinaryflexpro-default-rtdb.firebaseio.com",
+  projectId: "culinaryflexpro",
+  storageBucket: "culinaryflexpro.appspot.com",
+  messagingSenderId: "1007996709593",
+  appId: "1:1007996709593:web:60e4a3d68b82a7524a6cc8"
 };
 firebase.initializeApp(firebaseConfig);
 const appCheck = firebase.appCheck();
